@@ -1,0 +1,17 @@
+.wc-wrapper {
+  text-align: center;
+}
+.wc-title {
+  font-size: 14px;
+  letter-spacing: 2px;
+  color: #999;
+}
+.wc-days {
+  font-size: 42px;
+  font-weight: 400;
+  margin: 6px 0;
+}
+.wc-location {
+  font-size: 16px;
+  color: #bbb;
+}

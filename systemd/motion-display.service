@@ -1,0 +1,11 @@
+[Unit]
+Description=Smart frame — PIR motion to display power
+After=graphical.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/pi/raspi-4b/scripts/motion-display.py
+Restart=always
+User=pi
+
+[Install]
+WantedBy=multi-user.target
