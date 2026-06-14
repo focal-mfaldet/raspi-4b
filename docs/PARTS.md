@@ -1,5 +1,7 @@
 # Parts cart — portrait smart frame (no glass)
 
+> For the full checkout list with links + the frame build spec, see [SHOPPING.md](SHOPPING.md).
+
 ## Already have
 - Raspberry Pi 4 Model B, 2GB — plenty for MagicMirror²
 - Freenove Ultimate Starter Kit — DHT11, jumper wires, 10k resistors, breadboard, pushbutton
