@@ -9,7 +9,7 @@
 
 | Component | Pick | ~Cost | Notes |
 |---|---|---|---|
-| Display | 24–27" thin-bezel 1080p IPS monitor, **matte / anti-glare** | $130–220 | Avoid glossy — matte kills window/light reflections (most office IPS panels are already matte; confirm "anti-glare" in specs). Mountable in portrait; strip the stand/case. Splurge: 27" 1440p |
+| Display | **ASUS ProArt PA278CV** — 27" QHD IPS, anti-glare, 350 nits, VESA 100×100, HDMI | ~$300 | Chosen for the open floor plan: matte + 178° IPS + factory-calibrated color so wedding photos look right from any angle. Value alt: **PA278QV** (~$230, no USB-C — irrelevant for a Pi). Avoid 32" VA panels (angles wash out across a room). |
 | Video cable | **micro-HDMI → HDMI**, right-angle | $8 | The Pi 4 uses *micro*-HDMI — don't buy full-size |
 | Case + cooling | Argon ONE V3 (or M.2 version to boot from SSD) | $25–45 | 24/7 needs active cooling; routes ports to the back |
 | Boot storage | USB SSD, or 64GB high-endurance A2 microSD | $20–40 | Plain SD cards die under constant writes |
